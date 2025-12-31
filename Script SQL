@@ -1,1 +1,2 @@
-
+create database emp_dep;
+use emp_dep;
